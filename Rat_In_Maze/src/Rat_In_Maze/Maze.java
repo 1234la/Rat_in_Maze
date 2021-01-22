@@ -23,7 +23,7 @@ public class Maze extends JFrame{
    
     //private BufferedImage spriteSheet = null;
     private Player p;
-    private Graphics g;
+  
     
     //load logo
     ImageIcon logo = new ImageIcon(getClass().getClassLoader().getResource("Logo.png"));
