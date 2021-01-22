@@ -115,9 +115,9 @@ public class Maze extends JFrame{
                      
                      //First Location Player
                      if(x == 0){
-//                     	
+                   	
                      	//lokasi awal player 
-                     	p.setLocation((x*panelSize)+30, (y*panelSize)+40);
+                     	p.setLocation((x*panelSize)+25, (y*panelSize)+40);
                      	
                      	//untuk mengeset koordinat y
                      	Player.y = y;
